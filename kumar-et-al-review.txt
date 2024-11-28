@@ -1,0 +1,23 @@
+This is a review of the manuscript "Mapping electric potential" by Kumar et al. I recommend rejection. The manuscript explores the distribution of electric potential around conducting wire configurations and claims to check it with the law of conservation of energy.
+
+Title: Select a title that is more informative.
+
+Authors: give author contributions as a sentence in the acknowledgements section rather than in the author list.
+
+Abstract: The abstract does not explain what the major application is. While they hypothesize to observe decreases as distance, and confirm what they set out to observe, they do not test alternative hypotheses. Mainly there is no reason as to why this work is important, and hter is no Introduction section to answer that question either.
+
+Keywords are missing. 
+
+Introduction is completely missing.
+
+Methods and materials read as a narrative we did this, then this, then this. Too many trivial details are given and then major important details, like what meter, what power supply, what configuration of electrodes are missing. Explanation fo how the analyses were done (how did they get equipotentials and field lines) is completely missing. The setup photo is noisy and distracting while the cartoon lacks important details. 
+
+Results: No units are given for the different measurement stations so this data is impossible to use. The method or code used to generate the (unnumbered) equipotential figure is not given. E field is not shown at all. There is no text given for the results section.
+
+Discussion: The authors say something about "rate of change" without specifign if we mean spatial or time rate of change. The figures and results are not called out here and discussed. E field is discussed but not shown in the results at all. It is difficult to make sense of the discussion because they did not show the things they are talking about. No attempt is made to relate things back to a driving application or bigger research question.
+
+Acknowledgements are missing and should include the author contributions.
+References are missing.
+
+
+
