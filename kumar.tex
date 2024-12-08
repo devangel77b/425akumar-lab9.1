@@ -22,6 +22,15 @@
 \date{\today}
 \markboth{Journal of Science \& Engineering, Vol.~1, No.~2,~December x 2024}{Kumar \MakeLowercase{\textit{et al.}}: Mapping electric potential}
 \setcounter{page}{8}
+\newcommand{\keywords}{equipotential, electric field, mapping}
+\makeatletter
+\AtBeginDocument{
+\hypersetup{%
+pdftitle={\@title},
+pdfauthor={\@author},
+pdfsubject={physics},
+pdfkeywords={\keywords}}}
+\makeatother
 
 \begin{document}
 \maketitle
@@ -31,7 +40,7 @@ When two opposite point charges are placed near each other, it is hypothesized t
 \end{abstract}
 
 \begin{IEEEkeywords}
-equipotential, electric field, mapping
+\keywords
 \end{IEEEkeywords}
 
 \section{Introduction}
